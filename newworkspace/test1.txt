@@ -1,0 +1,6 @@
+war
+car
+push
+pipe
+tree
+get
